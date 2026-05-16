@@ -11,5 +11,7 @@ Python, Streamlit, Ollama (Llama3), Pandas
 
 ## Run locally
 pip3 install streamlit ollama pandas
+
+
 python3 -m streamlit run app.py
 ![Recipe Chatbot Demo](chatbot.png)
